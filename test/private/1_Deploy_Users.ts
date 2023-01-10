@@ -12,7 +12,7 @@ export async function run(): Promise<DeployedUsers> {
       
       it("Deployment", async function () {
         users = await deployContract({
-          name: 'USERS',
+          name: 'QUsers',
           constructor: [globalParams.address0],
           props: {}
         }) as QUsers;

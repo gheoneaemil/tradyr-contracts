@@ -13,7 +13,7 @@ export async function run(
       
       it("Deployment", async function () {
         itemBets = await deployContract({
-          name: 'ITEMBETS',
+          name: 'QItemBets',
           constructor: [dependencies.games.address],
           props: {}
         }) as QItemBets;
