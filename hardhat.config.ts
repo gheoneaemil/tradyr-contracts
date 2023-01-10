@@ -6,7 +6,6 @@ import 'solidity-coverage';
 import '@nomicfoundation/hardhat-toolbox';
 import "hardhat-deploy-ethers"
 import { HardhatUserConfig } from 'hardhat/config';
-import * as NETWORKS from './global/publicNetworks.json';
 
 /**
  * @type import('hardhat/config').HardhatUserConfig
