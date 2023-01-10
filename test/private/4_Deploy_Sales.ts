@@ -13,7 +13,7 @@ export async function run(
       
       it("Deployment", async function () {
         sales = await deployContract({
-          name: 'SALES',
+          name: 'QSales',
           constructor: [dependencies.users.address, dependencies.games.address],
           props: {}
         }) as QSales;

@@ -8,6 +8,7 @@
   },
   "scripts": {
     "test-public": "npx hardhat test test/public/*.ts",
+    "test-private": "npx hardhat test test/private/*.ts",
     "compile": "rm -rf cache && rm -rf artifacts && rm -rf typechain-types && npx hardhat compile",
     "deploy-hardhat": "hardhat run scripts/deploy.ts",
     "deploy-polygonMainnet": "hardhat run scripts/deploy.ts --network polygonMainnet",

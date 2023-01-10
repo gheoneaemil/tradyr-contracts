@@ -13,7 +13,7 @@ export async function run(
       
       it("Deployment", async function () {
         storage = await deployContract({
-          name: 'STORAGE',
+          name: 'QStorage',
           constructor: [dependencies.users.address, dependencies.games.address],
           props: {}
         }) as QStorage;
