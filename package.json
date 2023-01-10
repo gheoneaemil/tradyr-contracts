@@ -7,21 +7,18 @@
     "test": "test"
   },
   "scripts": {
-    "test": "hardhat test test/*.ts",
+    "test-public": "hardhat test test/public/*.ts",
     "compile": "rm -rf cache && rm -rf artifacts && rm -rf typechain-types && npx hardhat compile",
     "deploy-hardhat": "hardhat run scripts/deploy.ts",
-    "resync-projects-contracts": "ts-node plugins/synchronizeProjectsContracts.ts",
-    "resync-client-contract-addresses": "ts-node plugins/synchronizeClientContractAddresses.ts",
-    "deploy-polygonMainnet": "hardhat run scripts/deploy.ts --network polygonMainnet && npm run resync-projects-contracts && npm run resync-client-contract-addresses && npm run export-contracts-client",
-    "deploy-polygonMumbai": "hardhat run scripts/deploy.ts --network polygonMumbai && npm run resync-projects-contracts && npm run resync-client-contract-addresses && npm run export-contracts-client",
-    "deploy-binanceMainnet": "hardhat run scripts/deploy.ts --network binanceMainnet && npm run resync-projects-contracts && npm run resync-client-contract-addresses && npm run export-contracts-client",
-    "deploy-ethereumGoerli": "hardhat run scripts/deploy.ts --network ethereumGoerli && npm run resync-projects-contracts && npm run resync-client-contract-addresses && npm run export-contracts-client",
-    "deploy-binanceTestnet": "hardhat run scripts/deploy.ts --network binanceTestnet && npm run resync-projects-contracts && npm run resync-client-contract-addresses && npm run export-contracts-client",
-    "export-contracts-client": "cp -rf artifacts ../../../client/src/contracts/public && cp -rf typechain-types ../../../client/src/contracts/public && cp -rf global ../../../client/src/contracts/public"
+    "deploy-polygonMainnet": "hardhat run scripts/deploy.ts --network polygonMainnet",
+    "deploy-polygonMumbai": "hardhat run scripts/deploy.ts --network polygonMumbai",
+    "deploy-binanceMainnet": "hardhat run scripts/deploy.ts --network binanceMainnet",
+    "deploy-ethereumGoerli": "hardhat run scripts/deploy.ts --network ethereumGoerli",
+    "deploy-binanceTestnet": "hardhat run scripts/deploy.ts --network binanceTestnet"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@nomicfoundation/hardhat-chai-matchers": "^1.0.2",
     "@nomicfoundation/hardhat-network-helpers": "^1.0.7",

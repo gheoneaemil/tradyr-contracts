@@ -29,9 +29,3 @@ export const globalParamsPath: Path = {
     location: config.paths.root + '/global/',
     fullPath: config.paths.root + '/global/publicNetworks.json'
 };
-
-export const appParamsPath: Path = {
-    fileName: 'contracts.ts',
-    location: '../../../client/src/components/common/params/',
-    fullPath: '../../../client/src/components/common/params/contracts.ts'
-};

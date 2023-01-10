@@ -53,6 +53,10 @@ const config: HardhatUserConfig = {
     binanceTestnet: {
       url: String(process.env.HTTP_BINANCE_TESTNET),
       accounts: [String(process.env.PUBLIC_PRIVATE_KEY)]
+    },
+    quorum: {
+      url: String(process.env.HTTP_QUORUM),
+      accounts: [String(process.env.PRIVATE_PRIVATE_KEY)]
     }
   },
   etherscan: {

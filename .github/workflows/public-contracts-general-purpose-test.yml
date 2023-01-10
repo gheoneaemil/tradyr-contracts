@@ -1,0 +1,26 @@
+name: Public Contracts - General Purpose Test Status
+on: push
+jobs:
+  Compilation-status:
+    name: Public Contracts - General Purpose Test Status
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout set-up
+        uses: actions/checkout@v3
+      - name: Node set-up
+        uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+          cache: 'npm'
+      - name: Location set-up
+        run: npm install
+      - name: Compilation status
+        run: npm run test
+        env: 
+          PUBLIC_PRIVATE_KEY: ${{ secrets.PUBLIC_PRIVATE_KEY }}
+          BSCSCAN_API_KEY: ${{ secrets.BSCSCAN_API_KEY }}
+          HTTP_GOERLI_PROVIDER: ${{ secrets.HTTP_GOERLI_PROVIDER }}
+          HTTP_POLYGON_MAINNET: ${{ secrets.HTTP_POLYGON_MAINNET }}
+          HTTP_POLYGON_MUMBAI: ${{ secrets.HTTP_POLYGON_MUMBAI }}
+          HTTP_BINANCE_MAINNET: ${{ secrets.HTTP_BINANCE_MAINNET }}
+          HTTP_BINANCE_TESTNET: ${{ secrets.HTTP_BINANCE_TESTNET }}
