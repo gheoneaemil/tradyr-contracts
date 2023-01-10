@@ -1,0 +1,21 @@
+name: Public Contracts - Compilation Status
+on: push
+jobs:
+  Compilation-status:
+    name: Public Contracts - Compilation Status
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout set-up
+        uses: actions/checkout@v3
+      - name: Node set-up
+        uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+          cache: 'npm'
+      - name: Location set-up
+        run: npm install
+      - name: Compilation status
+        run: npm run compile
+        env: 
+          PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
+          BSCSCAN_API_KEY: ${{ secrets.BSCSCAN_API_KEY }}
