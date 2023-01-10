@@ -24,3 +24,4 @@ jobs:
           HTTP_POLYGON_MUMBAI: ${{ secrets.HTTP_POLYGON_MUMBAI }}
           HTTP_BINANCE_MAINNET: ${{ secrets.HTTP_BINANCE_MAINNET }}
           HTTP_BINANCE_TESTNET: ${{ secrets.HTTP_BINANCE_TESTNET }}
+          PRIVATE_PRIVATE_KEY: ${{ secrets.PRIVATE_PRIVATE_KEY }}
