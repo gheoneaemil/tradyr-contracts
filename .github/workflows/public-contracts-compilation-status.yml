@@ -17,7 +17,7 @@ jobs:
       - name: Compilation status
         run: npm run compile
         env: 
-          PRIVATE_KEY: ${{ secrets.PUBLIC_PRIVATE_KEY }}
+          PUBLIC_PRIVATE_KEY: ${{ secrets.PUBLIC_PRIVATE_KEY }}
           BSCSCAN_API_KEY: ${{ secrets.BSCSCAN_API_KEY }}
           HTTP_GOERLI_PROVIDER: ${{ secrets.HTTP_GOERLI_PROVIDER }}
           HTTP_POLYGON_MAINNET: ${{ secrets.HTTP_POLYGON_MAINNET }}
