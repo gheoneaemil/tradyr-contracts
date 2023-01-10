@@ -1,0 +1,49 @@
+{
+  "name": "contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hardhat.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "hardhat test test/*.ts",
+    "compile": "rm -rf cache && rm -rf artifacts && rm -rf typechain-types && npx hardhat compile",
+    "deploy-hardhat": "hardhat run scripts/deploy.ts",
+    "resync-projects-contracts": "ts-node plugins/synchronizeProjectsContracts.ts",
+    "resync-client-contract-addresses": "ts-node plugins/synchronizeClientContractAddresses.ts",
+    "deploy-polygonMainnet": "hardhat run scripts/deploy.ts --network polygonMainnet && npm run resync-projects-contracts && npm run resync-client-contract-addresses && npm run export-contracts-client",
+    "deploy-polygonMumbai": "hardhat run scripts/deploy.ts --network polygonMumbai && npm run resync-projects-contracts && npm run resync-client-contract-addresses && npm run export-contracts-client",
+    "deploy-binanceMainnet": "hardhat run scripts/deploy.ts --network binanceMainnet && npm run resync-projects-contracts && npm run resync-client-contract-addresses && npm run export-contracts-client",
+    "deploy-ethereumGoerli": "hardhat run scripts/deploy.ts --network ethereumGoerli && npm run resync-projects-contracts && npm run resync-client-contract-addresses && npm run export-contracts-client",
+    "deploy-binanceTestnet": "hardhat run scripts/deploy.ts --network binanceTestnet && npm run resync-projects-contracts && npm run resync-client-contract-addresses && npm run export-contracts-client",
+    "export-contracts-client": "cp -rf artifacts ../../../client/src/contracts/public && cp -rf typechain-types ../../../client/src/contracts/public && cp -rf global ../../../client/src/contracts/public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^1.0.2",
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.7",
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.2.1",
+    "@nomiclabs/hardhat-etherscan": "^3.0.3",
+    "@openzeppelin/contracts": "^4.6.0",
+    "@typechain/ethers-v5": "^10.2.0",
+    "@typechain/hardhat": "^6.1.2",
+    "@types/chai": "^4.3.3",
+    "@types/git-user-name": "^2.0.1",
+    "@types/mocha": "^9.1.1",
+    "@types/node": "^18.7.3",
+    "chai": "^4.3.6",
+    "git-user-name": "^2.0.0",
+    "hardhat": "^2.9.3",
+    "hardhat-deploy-ethers": "^0.3.0-beta.13",
+    "hardhat-gas-reporter": "^1.0.8",
+    "solidity-coverage": "^0.7.21",
+    "ts-node": "^10.9.1",
+    "typechain": "^8.1.1",
+    "typescript": "^4.7.4",
+    "winston": "^3.8.1"
+  }
+}
