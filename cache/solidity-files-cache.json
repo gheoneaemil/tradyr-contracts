@@ -1,8 +1,8 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/home/diimiim/tradyr-contracts/contracts/auctions/Methods.sol": {
-      "lastModificationDate": 1673291681144,
+    "/home/diimiim/test/test10/tradyr-contracts/contracts/auctions/Methods.sol": {
+      "lastModificationDate": 1673350939154,
       "contentHash": "96b509eca99e7cad33e46d73c28e4647",
       "sourceName": "contracts/auctions/Methods.sol",
       "solcConfig": {
@@ -38,8 +38,8 @@
         "AUCTIONSMETHODS"
       ]
     },
-    "/home/diimiim/tradyr-contracts/contracts/auctions/Params.sol": {
-      "lastModificationDate": 1673291681144,
+    "/home/diimiim/test/test10/tradyr-contracts/contracts/auctions/Params.sol": {
+      "lastModificationDate": 1673350939154,
       "contentHash": "88c74253fa9953cc10af5745e65ab607",
       "sourceName": "contracts/auctions/Params.sol",
       "solcConfig": {
@@ -80,8 +80,8 @@
         "AUCTIONSPARAMS"
       ]
     },
-    "/home/diimiim/tradyr-contracts/contracts/plugins/TokensHandler.sol": {
-      "lastModificationDate": 1673291681144,
+    "/home/diimiim/test/test10/tradyr-contracts/contracts/plugins/TokensHandler.sol": {
+      "lastModificationDate": 1673350939154,
       "contentHash": "cd8b740766a003b440a3108cb9358745",
       "sourceName": "contracts/plugins/TokensHandler.sol",
       "solcConfig": {
@@ -119,8 +119,8 @@
         "TokensHandler"
       ]
     },
-    "/home/diimiim/tradyr-contracts/contracts/plugins/IDiscounts.sol": {
-      "lastModificationDate": 1673291681144,
+    "/home/diimiim/test/test10/tradyr-contracts/contracts/plugins/IDiscounts.sol": {
+      "lastModificationDate": 1673350939154,
       "contentHash": "595e85d16ec66329b89e357602a95f32",
       "sourceName": "contracts/plugins/IDiscounts.sol",
       "solcConfig": {
@@ -154,8 +154,8 @@
         "IDiscounts"
       ]
     },
-    "/home/diimiim/tradyr-contracts/contracts/plugins/Payable.sol": {
-      "lastModificationDate": 1673291681144,
+    "/home/diimiim/test/test10/tradyr-contracts/contracts/plugins/Payable.sol": {
+      "lastModificationDate": 1673350939154,
       "contentHash": "e447d3208594f656b79797bcdbd4d44f",
       "sourceName": "contracts/plugins/Payable.sol",
       "solcConfig": {
@@ -196,8 +196,8 @@
         "Payable"
       ]
     },
-    "/home/diimiim/tradyr-contracts/node_modules/@openzeppelin/contracts/interfaces/IERC20.sol": {
-      "lastModificationDate": 1673293197509,
+    "/home/diimiim/test/test10/tradyr-contracts/node_modules/@openzeppelin/contracts/interfaces/IERC20.sol": {
+      "lastModificationDate": 1673350940342,
       "contentHash": "d151fbfe7939989b9acf22797b32058b",
       "sourceName": "@openzeppelin/contracts/interfaces/IERC20.sol",
       "solcConfig": {
@@ -231,8 +231,8 @@
       ],
       "artifacts": []
     },
-    "/home/diimiim/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC721/utils/ERC721Holder.sol": {
-      "lastModificationDate": 1673293197469,
+    "/home/diimiim/test/test10/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC721/utils/ERC721Holder.sol": {
+      "lastModificationDate": 1673350940338,
       "contentHash": "54062ff887823a306b33ea6494a220bc",
       "sourceName": "@openzeppelin/contracts/token/ERC721/utils/ERC721Holder.sol",
       "solcConfig": {
@@ -268,8 +268,8 @@
         "ERC721Holder"
       ]
     },
-    "/home/diimiim/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC1155/utils/ERC1155Holder.sol": {
-      "lastModificationDate": 1673293197421,
+    "/home/diimiim/test/test10/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC1155/utils/ERC1155Holder.sol": {
+      "lastModificationDate": 1673350940338,
       "contentHash": "88079762e28b246888129028f757e047",
       "sourceName": "@openzeppelin/contracts/token/ERC1155/utils/ERC1155Holder.sol",
       "solcConfig": {
@@ -305,8 +305,8 @@
         "ERC1155Holder"
       ]
     },
-    "/home/diimiim/tradyr-contracts/node_modules/@openzeppelin/contracts/interfaces/IERC721.sol": {
-      "lastModificationDate": 1673293197517,
+    "/home/diimiim/test/test10/tradyr-contracts/node_modules/@openzeppelin/contracts/interfaces/IERC721.sol": {
+      "lastModificationDate": 1673350940342,
       "contentHash": "e6da7798a8c22c5043cc42d64a2a8f80",
       "sourceName": "@openzeppelin/contracts/interfaces/IERC721.sol",
       "solcConfig": {
@@ -340,8 +340,8 @@
       ],
       "artifacts": []
     },
-    "/home/diimiim/tradyr-contracts/node_modules/@openzeppelin/contracts/interfaces/IERC1155.sol": {
-      "lastModificationDate": 1673293197501,
+    "/home/diimiim/test/test10/tradyr-contracts/node_modules/@openzeppelin/contracts/interfaces/IERC1155.sol": {
+      "lastModificationDate": 1673350940338,
       "contentHash": "f646f2b291e7c83dcc7f1c6c7d1ece30",
       "sourceName": "@openzeppelin/contracts/interfaces/IERC1155.sol",
       "solcConfig": {
@@ -375,8 +375,8 @@
       ],
       "artifacts": []
     },
-    "/home/diimiim/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol": {
-      "lastModificationDate": 1673293197517,
+    "/home/diimiim/test/test10/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol": {
+      "lastModificationDate": 1673350940338,
       "contentHash": "eb7e61db29f31d88b3c1cef1b063d338",
       "sourceName": "@openzeppelin/contracts/token/ERC721/IERC721.sol",
       "solcConfig": {
@@ -412,8 +412,8 @@
         "IERC721"
       ]
     },
-    "/home/diimiim/tradyr-contracts/node_modules/@openzeppelin/contracts/utils/introspection/IERC165.sol": {
-      "lastModificationDate": 1673293197509,
+    "/home/diimiim/test/test10/tradyr-contracts/node_modules/@openzeppelin/contracts/utils/introspection/IERC165.sol": {
+      "lastModificationDate": 1673350940334,
       "contentHash": "03e6768535ac4da0e9756f1d8a4a018a",
       "sourceName": "@openzeppelin/contracts/utils/introspection/IERC165.sol",
       "solcConfig": {
@@ -447,8 +447,8 @@
         "IERC165"
       ]
     },
-    "/home/diimiim/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC1155/IERC1155.sol": {
-      "lastModificationDate": 1673293197505,
+    "/home/diimiim/test/test10/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC1155/IERC1155.sol": {
+      "lastModificationDate": 1673350940338,
       "contentHash": "d5a8f6e07ca38ec384856cfe9f08a867",
       "sourceName": "@openzeppelin/contracts/token/ERC1155/IERC1155.sol",
       "solcConfig": {
@@ -484,8 +484,8 @@
         "IERC1155"
       ]
     },
-    "/home/diimiim/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC20/IERC20.sol": {
-      "lastModificationDate": 1673293197513,
+    "/home/diimiim/test/test10/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC20/IERC20.sol": {
+      "lastModificationDate": 1673350940338,
       "contentHash": "ad7c2d0af148c8f9f097d65deeb4da6b",
       "sourceName": "@openzeppelin/contracts/token/ERC20/IERC20.sol",
       "solcConfig": {
@@ -519,8 +519,43 @@
         "IERC20"
       ]
     },
-    "/home/diimiim/tradyr-contracts/node_modules/@openzeppelin/contracts/access/Ownable.sol": {
-      "lastModificationDate": 1673293197537,
+    "/home/diimiim/test/test10/tradyr-contracts/node_modules/@openzeppelin/contracts/security/ReentrancyGuard.sol": {
+      "lastModificationDate": 1673350940342,
+      "contentHash": "a8e2d1c30042f64ed89c9d4157eb6cb9",
+      "sourceName": "@openzeppelin/contracts/security/ReentrancyGuard.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "ReentrancyGuard"
+      ]
+    },
+    "/home/diimiim/test/test10/tradyr-contracts/node_modules/@openzeppelin/contracts/access/Ownable.sol": {
+      "lastModificationDate": 1673350940334,
       "contentHash": "e436cea06129be2c73cda4b1acc848b5",
       "sourceName": "@openzeppelin/contracts/access/Ownable.sol",
       "solcConfig": {
@@ -556,43 +591,8 @@
         "Ownable"
       ]
     },
-    "/home/diimiim/tradyr-contracts/node_modules/@openzeppelin/contracts/security/ReentrancyGuard.sol": {
-      "lastModificationDate": 1673293197545,
-      "contentHash": "a8e2d1c30042f64ed89c9d4157eb6cb9",
-      "sourceName": "@openzeppelin/contracts/security/ReentrancyGuard.sol",
-      "solcConfig": {
-        "version": "0.8.17",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "ReentrancyGuard"
-      ]
-    },
-    "/home/diimiim/tradyr-contracts/node_modules/@openzeppelin/contracts/utils/Address.sol": {
-      "lastModificationDate": 1673293197353,
+    "/home/diimiim/test/test10/tradyr-contracts/node_modules/@openzeppelin/contracts/utils/Address.sol": {
+      "lastModificationDate": 1673350940334,
       "contentHash": "f31ad6fc4bbf9c06203987220156a6ba",
       "sourceName": "@openzeppelin/contracts/utils/Address.sol",
       "solcConfig": {
@@ -626,8 +626,8 @@
         "Address"
       ]
     },
-    "/home/diimiim/tradyr-contracts/node_modules/@openzeppelin/contracts/utils/Context.sol": {
-      "lastModificationDate": 1673293197373,
+    "/home/diimiim/test/test10/tradyr-contracts/node_modules/@openzeppelin/contracts/utils/Context.sol": {
+      "lastModificationDate": 1673350940334,
       "contentHash": "5f2c5c4b6af2dd4551027144797bc8be",
       "sourceName": "@openzeppelin/contracts/utils/Context.sol",
       "solcConfig": {
@@ -661,8 +661,8 @@
         "Context"
       ]
     },
-    "/home/diimiim/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol": {
-      "lastModificationDate": 1673293197521,
+    "/home/diimiim/test/test10/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol": {
+      "lastModificationDate": 1673350940338,
       "contentHash": "c22d4395e33763de693fd440c6fd10e1",
       "sourceName": "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
       "solcConfig": {
@@ -696,8 +696,8 @@
         "IERC721Receiver"
       ]
     },
-    "/home/diimiim/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC1155/utils/ERC1155Receiver.sol": {
-      "lastModificationDate": 1673293197429,
+    "/home/diimiim/test/test10/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC1155/utils/ERC1155Receiver.sol": {
+      "lastModificationDate": 1673350940338,
       "contentHash": "55b180cf664783e9a2baac20e82683fb",
       "sourceName": "@openzeppelin/contracts/token/ERC1155/utils/ERC1155Receiver.sol",
       "solcConfig": {
@@ -734,45 +734,8 @@
         "ERC1155Receiver"
       ]
     },
-    "/home/diimiim/tradyr-contracts/node_modules/@openzeppelin/contracts/utils/introspection/ERC165.sol": {
-      "lastModificationDate": 1673293197433,
-      "contentHash": "0e7db055ce108f9da7bb6686a00287c0",
-      "sourceName": "@openzeppelin/contracts/utils/introspection/ERC165.sol",
-      "solcConfig": {
-        "version": "0.8.17",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "./IERC165.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "ERC165"
-      ]
-    },
-    "/home/diimiim/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC1155/IERC1155Receiver.sol": {
-      "lastModificationDate": 1673293197505,
+    "/home/diimiim/test/test10/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC1155/IERC1155Receiver.sol": {
+      "lastModificationDate": 1673350940338,
       "contentHash": "9f8822b72fe2702979e40160cb6d9636",
       "sourceName": "@openzeppelin/contracts/token/ERC1155/IERC1155Receiver.sol",
       "solcConfig": {
@@ -808,8 +771,45 @@
         "IERC1155Receiver"
       ]
     },
-    "/home/diimiim/tradyr-contracts/contracts/auctions/Template.sol": {
-      "lastModificationDate": 1673291681144,
+    "/home/diimiim/test/test10/tradyr-contracts/node_modules/@openzeppelin/contracts/utils/introspection/ERC165.sol": {
+      "lastModificationDate": 1673350940334,
+      "contentHash": "0e7db055ce108f9da7bb6686a00287c0",
+      "sourceName": "@openzeppelin/contracts/utils/introspection/ERC165.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./IERC165.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "ERC165"
+      ]
+    },
+    "/home/diimiim/test/test10/tradyr-contracts/contracts/auctions/Template.sol": {
+      "lastModificationDate": 1673350939154,
       "contentHash": "b78ee272333b2c43a3e5e44893cc00a6",
       "sourceName": "contracts/auctions/Template.sol",
       "solcConfig": {
@@ -845,8 +845,87 @@
         "AUCTIONS"
       ]
     },
-    "/home/diimiim/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol": {
-      "lastModificationDate": 1673293197461,
+    "/home/diimiim/test/test10/tradyr-contracts/contracts/sales/Params.sol": {
+      "lastModificationDate": 1673350939154,
+      "contentHash": "41b25790d2781ab945a223eba14ec88e",
+      "sourceName": "contracts/sales/Params.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "@openzeppelin/contracts/interfaces/IERC20.sol",
+        "@openzeppelin/contracts/token/ERC721/utils/ERC721Holder.sol",
+        "@openzeppelin/contracts/token/ERC1155/utils/ERC1155Holder.sol",
+        "../plugins/TokensHandler.sol",
+        "../plugins/IDiscounts.sol",
+        "../plugins/Payable.sol"
+      ],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "SALESPARAMS"
+      ]
+    },
+    "/home/diimiim/test/test10/tradyr-contracts/contracts/sales/Template.sol": {
+      "lastModificationDate": 1673350939154,
+      "contentHash": "00bd33334989427dfa5b0f38803f0ef2",
+      "sourceName": "contracts/sales/Template.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./Params.sol"
+      ],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "SALES"
+      ]
+    },
+    "/home/diimiim/test/test10/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol": {
+      "lastModificationDate": 1673350940338,
       "contentHash": "190f627b9302b9602d3a313e28205cc5",
       "sourceName": "@openzeppelin/contracts/token/ERC721/ERC721.sol",
       "solcConfig": {
@@ -888,8 +967,8 @@
         "ERC721"
       ]
     },
-    "/home/diimiim/tradyr-contracts/node_modules/@openzeppelin/contracts/utils/Strings.sol": {
-      "lastModificationDate": 1673293197553,
+    "/home/diimiim/test/test10/tradyr-contracts/node_modules/@openzeppelin/contracts/utils/Strings.sol": {
+      "lastModificationDate": 1673350940334,
       "contentHash": "396031251978f8febfd90cb62cb240ec",
       "sourceName": "@openzeppelin/contracts/utils/Strings.sol",
       "solcConfig": {
@@ -925,8 +1004,8 @@
         "Strings"
       ]
     },
-    "/home/diimiim/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol": {
-      "lastModificationDate": 1673293197521,
+    "/home/diimiim/test/test10/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol": {
+      "lastModificationDate": 1673350940338,
       "contentHash": "efbc0d15b80a74e34dbe8da0f3e879bb",
       "sourceName": "@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol",
       "solcConfig": {
@@ -962,8 +1041,8 @@
         "IERC721Metadata"
       ]
     },
-    "/home/diimiim/tradyr-contracts/node_modules/@openzeppelin/contracts/utils/math/Math.sol": {
-      "lastModificationDate": 1673293197537,
+    "/home/diimiim/test/test10/tradyr-contracts/node_modules/@openzeppelin/contracts/utils/math/Math.sol": {
+      "lastModificationDate": 1673350940334,
       "contentHash": "b9c58920ce74d6dc819161786112e7ee",
       "sourceName": "@openzeppelin/contracts/utils/math/Math.sol",
       "solcConfig": {
@@ -997,10 +1076,10 @@
         "Math"
       ]
     },
-    "/home/diimiim/tradyr-contracts/contracts/sales/Params.sol": {
-      "lastModificationDate": 1673291681144,
-      "contentHash": "41b25790d2781ab945a223eba14ec88e",
-      "sourceName": "contracts/sales/Params.sol",
+    "/home/diimiim/test/test10/tradyr-contracts/contracts/plugins/Discounts.sol": {
+      "lastModificationDate": 1673350939154,
+      "contentHash": "caaeb6632d1a4da13ef584c62db74bc7",
+      "sourceName": "contracts/plugins/Discounts.sol",
       "solcConfig": {
         "version": "0.8.17",
         "settings": {
@@ -1025,24 +1104,21 @@
         }
       },
       "imports": [
-        "@openzeppelin/contracts/interfaces/IERC20.sol",
-        "@openzeppelin/contracts/token/ERC721/utils/ERC721Holder.sol",
-        "@openzeppelin/contracts/token/ERC1155/utils/ERC1155Holder.sol",
-        "../plugins/TokensHandler.sol",
-        "../plugins/IDiscounts.sol",
-        "../plugins/Payable.sol"
+        "@openzeppelin/contracts/interfaces/IERC721.sol",
+        "@openzeppelin/contracts/interfaces/IERC1155.sol",
+        "@openzeppelin/contracts/access/Ownable.sol"
       ],
       "versionPragmas": [
         "0.8.17"
       ],
       "artifacts": [
-        "SALESPARAMS"
+        "Discounts"
       ]
     },
-    "/home/diimiim/tradyr-contracts/contracts/sales/Template.sol": {
-      "lastModificationDate": 1673291681144,
-      "contentHash": "00bd33334989427dfa5b0f38803f0ef2",
-      "sourceName": "contracts/sales/Template.sol",
+    "/home/diimiim/test/test10/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol": {
+      "lastModificationDate": 1673350940338,
+      "contentHash": "834a0dde221759af42b030253315b086",
+      "sourceName": "@openzeppelin/contracts/token/ERC20/ERC20.sol",
       "solcConfig": {
         "version": "0.8.17",
         "settings": {
@@ -1067,17 +1143,56 @@
         }
       },
       "imports": [
-        "./Params.sol"
+        "./IERC20.sol",
+        "./extensions/IERC20Metadata.sol",
+        "../../utils/Context.sol"
       ],
       "versionPragmas": [
-        "0.8.17"
+        "^0.8.0"
       ],
       "artifacts": [
-        "SALES"
+        "ERC20"
       ]
     },
-    "/home/diimiim/tradyr-contracts/contracts/rents/Params.sol": {
-      "lastModificationDate": 1673291681144,
+    "/home/diimiim/test/test10/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol": {
+      "lastModificationDate": 1673350940338,
+      "contentHash": "909ab67fc5c25033fe6cd364f8c056f9",
+      "sourceName": "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../IERC20.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "IERC20Metadata"
+      ]
+    },
+    "/home/diimiim/test/test10/tradyr-contracts/contracts/rents/Params.sol": {
+      "lastModificationDate": 1673350939154,
       "contentHash": "fd17a0b29dc7b3d96f1710f3107437a8",
       "sourceName": "contracts/rents/Params.sol",
       "solcConfig": {
@@ -1118,8 +1233,8 @@
         "RENTSPARAMS"
       ]
     },
-    "/home/diimiim/tradyr-contracts/contracts/rents/Template.sol": {
-      "lastModificationDate": 1673291681144,
+    "/home/diimiim/test/test10/tradyr-contracts/contracts/rents/Template.sol": {
+      "lastModificationDate": 1673350939154,
       "contentHash": "149ce970f17ca07b3c853038e7542dca",
       "sourceName": "contracts/rents/Template.sol",
       "solcConfig": {
@@ -1155,160 +1270,8 @@
         "RENTS"
       ]
     },
-    "/home/diimiim/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol": {
-      "lastModificationDate": 1673293197513,
-      "contentHash": "909ab67fc5c25033fe6cd364f8c056f9",
-      "sourceName": "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
-      "solcConfig": {
-        "version": "0.8.17",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "../IERC20.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "IERC20Metadata"
-      ]
-    },
-    "/home/diimiim/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol": {
-      "lastModificationDate": 1673293197441,
-      "contentHash": "834a0dde221759af42b030253315b086",
-      "sourceName": "@openzeppelin/contracts/token/ERC20/ERC20.sol",
-      "solcConfig": {
-        "version": "0.8.17",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "./IERC20.sol",
-        "./extensions/IERC20Metadata.sol",
-        "../../utils/Context.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "ERC20"
-      ]
-    },
-    "/home/diimiim/tradyr-contracts/contracts/plugins/Discounts.sol": {
-      "lastModificationDate": 1673291681144,
-      "contentHash": "caaeb6632d1a4da13ef584c62db74bc7",
-      "sourceName": "contracts/plugins/Discounts.sol",
-      "solcConfig": {
-        "version": "0.8.17",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "@openzeppelin/contracts/interfaces/IERC721.sol",
-        "@openzeppelin/contracts/interfaces/IERC1155.sol",
-        "@openzeppelin/contracts/access/Ownable.sol"
-      ],
-      "versionPragmas": [
-        "0.8.17"
-      ],
-      "artifacts": [
-        "Discounts"
-      ]
-    },
-    "/home/diimiim/tradyr-contracts/contracts/utility/ERC20.sol": {
-      "lastModificationDate": 1673291681144,
-      "contentHash": "cebd6452dbc192ee33d890ce90952697",
-      "sourceName": "contracts/utility/ERC20.sol",
-      "solcConfig": {
-        "version": "0.8.17",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "@openzeppelin/contracts/token/ERC20/ERC20.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "EERC20"
-      ]
-    },
-    "/home/diimiim/tradyr-contracts/contracts/rents/Methods.sol": {
-      "lastModificationDate": 1673291681144,
+    "/home/diimiim/test/test10/tradyr-contracts/contracts/rents/Methods.sol": {
+      "lastModificationDate": 1673350939154,
       "contentHash": "be8f9155b8329c5a5f378c03e6379e64",
       "sourceName": "contracts/rents/Methods.sol",
       "solcConfig": {
@@ -1344,10 +1307,10 @@
         "RENTSMETHODS"
       ]
     },
-    "/home/diimiim/tradyr-contracts/contracts/sales/Methods.sol": {
-      "lastModificationDate": 1673291681144,
-      "contentHash": "78110387cac7c45927d7f163fafc50c7",
-      "sourceName": "contracts/sales/Methods.sol",
+    "/home/diimiim/test/test10/tradyr-contracts/contracts/utility/ERC20.sol": {
+      "lastModificationDate": 1673350939154,
+      "contentHash": "cebd6452dbc192ee33d890ce90952697",
+      "sourceName": "contracts/utility/ERC20.sol",
       "solcConfig": {
         "version": "0.8.17",
         "settings": {
@@ -1372,17 +1335,17 @@
         }
       },
       "imports": [
-        "./Params.sol"
+        "@openzeppelin/contracts/token/ERC20/ERC20.sol"
       ],
       "versionPragmas": [
-        "0.8.17"
+        "^0.8.0"
       ],
       "artifacts": [
-        "SALESMETHODS"
+        "EERC20"
       ]
     },
-    "/home/diimiim/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol": {
-      "lastModificationDate": 1673293197473,
+    "/home/diimiim/test/test10/tradyr-contracts/node_modules/@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol": {
+      "lastModificationDate": 1673350940338,
       "contentHash": "8af32effd0536e2971ff8496812a5016",
       "sourceName": "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol",
       "solcConfig": {
@@ -1418,8 +1381,8 @@
         "ERC721URIStorage"
       ]
     },
-    "/home/diimiim/tradyr-contracts/contracts/utility/EERC721.sol": {
-      "lastModificationDate": 1673291681144,
+    "/home/diimiim/test/test10/tradyr-contracts/contracts/utility/EERC721.sol": {
+      "lastModificationDate": 1673350939154,
       "contentHash": "1832fc4def93b6c2fe9643fdc86e71b1",
       "sourceName": "contracts/utility/EERC721.sol",
       "solcConfig": {
@@ -1456,8 +1419,8 @@
         "EERC721"
       ]
     },
-    "/home/diimiim/tradyr-contracts/node_modules/@openzeppelin/contracts/utils/Counters.sol": {
-      "lastModificationDate": 1673293197373,
+    "/home/diimiim/test/test10/tradyr-contracts/node_modules/@openzeppelin/contracts/utils/Counters.sol": {
+      "lastModificationDate": 1673350940334,
       "contentHash": "74654e3ae5d7f39555055dfe244dab7a",
       "sourceName": "@openzeppelin/contracts/utils/Counters.sol",
       "solcConfig": {
@@ -1489,6 +1452,43 @@
       ],
       "artifacts": [
         "Counters"
+      ]
+    },
+    "/home/diimiim/test/test10/tradyr-contracts/contracts/sales/Methods.sol": {
+      "lastModificationDate": 1673350939154,
+      "contentHash": "78110387cac7c45927d7f163fafc50c7",
+      "sourceName": "contracts/sales/Methods.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./Params.sol"
+      ],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "SALESMETHODS"
       ]
     }
   }

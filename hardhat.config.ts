@@ -37,23 +37,23 @@ const config: HardhatUserConfig = {
     },
     ethereumGoerli: {
       url: String(process.env.HTTP_GOERLI_PROVIDER),
-      accounts: [String(process.env.PRIVATE_KEY)]
+      accounts: [String(process.env.PUBLIC_PRIVATE_KEY)]
     },
     polygonMainnet: {
       url: String(process.env.HTTP_POLYGON_MAINNET),
-      accounts: [String(process.env.PRIVATE_KEY)]
+      accounts: [String(process.env.PUBLIC_PRIVATE_KEY)]
     },
     polygonMumbai: {
       url: String(process.env.HTTP_POLYGON_MUMBAI),
-      accounts: [String(process.env.PRIVATE_KEY)]
+      accounts: [String(process.env.PUBLIC_PRIVATE_KEY)]
     },
     binanceMainnet: {
       url: String(process.env.HTTP_BINANCE_MAINNET),
-      accounts: [String(process.env.PRIVATE_KEY)]
+      accounts: [String(process.env.PUBLIC_PRIVATE_KEY)]
     },
     binanceTestnet: {
       url: String(process.env.HTTP_BINANCE_TESTNET),
-      accounts: [String(process.env.PRIVATE_KEY)]
+      accounts: [String(process.env.PUBLIC_PRIVATE_KEY)]
     }
   },
   etherscan: {
