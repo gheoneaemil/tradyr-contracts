@@ -17,5 +17,5 @@ jobs:
       - name: Compilation status
         run: npm run compile
         env: 
-          PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
+          PRIVATE_KEY: ${{ secrets.PUBLIC_PRIVATE_KEY }}
           BSCSCAN_API_KEY: ${{ secrets.BSCSCAN_API_KEY }}
